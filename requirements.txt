@@ -5,3 +5,4 @@ pandas
 ultralytics
 streamlit-folium
 folium
+opencv-python-headless
