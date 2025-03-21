@@ -1,0 +1,44 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-10-24T13:53:17.038674Z",
+  "args":  [
+    "task=detect",
+    "mode=train",
+    "model=yolov8m.pt",
+    "data=/content/Pothole/datasets/Object-Detection-(Bounding-Box)-1/data.yaml",
+    "epochs=75",
+    "imgsz=640"
+  ],
+  "program":  "/usr/local/bin/yolo",
+  "root":  "/content/Pothole",
+  "host":  "07ef33cfb222",
+  "username":  "root",
+  "executable":  "/usr/bin/python3",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "gpu":  "Tesla T4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "120942624768",
+      "used":  "34705383424"
+    }
+  },
+  "memory":  {
+    "total":  "13609431040"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

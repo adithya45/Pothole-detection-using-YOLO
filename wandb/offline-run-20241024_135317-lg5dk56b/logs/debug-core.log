@@ -1,0 +1,16 @@
+{"time":"2024-10-24T13:53:02.273175162Z","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmpvmo5jie0/port-5230.txt","pid":5230,"debug":false,"disable-analytics":false}
+{"time":"2024-10-24T13:53:02.27322419Z","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-24T13:53:02.380792437Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":5230}
+{"time":"2024-10-24T13:53:02.384082466Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":46277,"Zone":""}}
+{"time":"2024-10-24T13:53:02.466862679Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T13:53:17.040292241Z","level":"INFO","msg":"handleInformInit: received","streamId":"lg5dk56b","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T13:53:17.14860728Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"lg5dk56b","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:05.489626832Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"lg5dk56b","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:05.490703866Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"lg5dk56b","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:06.162140045Z","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:06.162171821Z","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:06.162180583Z","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-24T14:11:06.16221845Z","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:06.162294073Z","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:06.162303917Z","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:58150"}
+{"time":"2024-10-24T14:11:06.162314195Z","level":"INFO","msg":"server is closed"}

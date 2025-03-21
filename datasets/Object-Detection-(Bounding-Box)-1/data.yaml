@@ -1,0 +1,12 @@
+names:
+- Potholes
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: object-detection-bounding-box-ftfs5
+  url: https://universe.roboflow.com/hiteshram/object-detection-bounding-box-ftfs5/dataset/1
+  version: 1
+  workspace: hiteshram
+test: ../test/images
+train: ../train/images
+val: ../valid/images

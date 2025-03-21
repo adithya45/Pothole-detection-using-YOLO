@@ -1,0 +1,16 @@
+{"time":"2024-10-24T13:53:17.04301226Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-24T13:53:17.043046724Z","level":"INFO","msg":"created symlink","path":"/content/Pothole/wandb/offline-run-20241024_135317-lg5dk56b/logs/debug-core.log"}
+{"time":"2024-10-24T13:53:17.148538184Z","level":"INFO","msg":"created new stream","id":"lg5dk56b"}
+{"time":"2024-10-24T13:53:17.148597269Z","level":"INFO","msg":"stream: started","id":"lg5dk56b"}
+{"time":"2024-10-24T13:53:17.148607925Z","level":"INFO","msg":"handler: started","stream_id":{"value":"lg5dk56b"}}
+{"time":"2024-10-24T13:53:17.148734525Z","level":"INFO","msg":"sender: started","stream_id":"lg5dk56b"}
+{"time":"2024-10-24T13:53:17.148762444Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lg5dk56b"}}
+{"time":"2024-10-24T13:53:17.156706826Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-24T14:11:04.477763912Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-24T14:11:04.479141721Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-24T14:11:04.481180581Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-10-24T14:11:05.490539715Z","level":"INFO","msg":"stream: closing","id":"lg5dk56b"}
+{"time":"2024-10-24T14:11:05.490581974Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"lg5dk56b"}}
+{"time":"2024-10-24T14:11:05.490610779Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lg5dk56b"}}
+{"time":"2024-10-24T14:11:05.490678102Z","level":"INFO","msg":"sender: closed","stream_id":"lg5dk56b"}
+{"time":"2024-10-24T14:11:05.490696961Z","level":"INFO","msg":"stream: closed","id":"lg5dk56b"}
